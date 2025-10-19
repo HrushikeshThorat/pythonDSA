@@ -16,6 +16,8 @@ A collection of Data Structures and Algorithms implemented in Python for learnin
   - `3_kth_node_from_end.py` — find kth node from end
   - `4_remove_duplicates.py` — remove duplicates from linked list
   - `5_binary_to_decimal.py` — convert binary to decimal
+  - `6_partition_list.py` — partition linked list
+
 ## Requirements
 - Python 3.8+
 - (optional) virtual environment
