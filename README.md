@@ -15,6 +15,7 @@ A collection of Data Structures and Algorithms implemented in Python for learnin
   - `2_has_loop.py` — detect loop in linked list
   - `3_kth_node_from_end.py` — find kth node from end
   - `4_remove_duplicates.py` — remove duplicates from linked list
+  - `5_binary_to_decimal.py` — convert binary to decimal
 ## Requirements
 - Python 3.8+
 - (optional) virtual environment
